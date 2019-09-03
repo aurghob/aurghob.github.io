@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Aurgho"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "mydp.png"
+  bio              : "ASU MS CS Thesis Graduate| Software Development| Natural Language Processing| Machine Learning"
   location         : "Tempe Arizona"
   employer         :
   googlescholar    : 
@@ -101,8 +101,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://linkedin.com/in/aurghob"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "aurghob"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
