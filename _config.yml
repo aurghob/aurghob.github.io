@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aurgho"
+title                    : "Aurgho Bhattacharjee"
 title_separator          : "-"
 name                     : &name "Aurgho Bhattacharjee"
 description              : &description "MS in CS|Thesis in NLP|experienced in Software Development"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aurgho"
+  name             : "Aurgho Bhattacharjee"
   avatar           : "mydp.png"
   bio              : "ASU MS CS Thesis Graduate| Software Development| Natural Language Processing| Machine Learning"
   location         : "Tempe Arizona"
