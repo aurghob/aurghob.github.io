@@ -7,9 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- About me
-- ==========
+I recently completed my Masters in Computer Science from Arizona State University with my thesis under the guidance of Dr. Chitta Baral.
+I have, over time, learnt to value positivity, growth empathy and curiosity to learn and am now working to nurture these values in my life. 
+Working with international teams and with systems on a global scale, my interests lie in solving complex problems, software engineering and machine learning.
 
-Hi welcome to my website!
-This page should add some information about me.
+
+Contact me
+========
+- Personal email : aurghob at gmail dot com
 -----
