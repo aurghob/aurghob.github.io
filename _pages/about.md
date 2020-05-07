@@ -14,7 +14,7 @@ Working with international teams and with systems on a global scale, my interest
 
 Updates
 ========
-- August 13 2019: Graduated from ASU with my Masters : My thesis is available on [proquest](https://repository.asu.edu/attachments/221752/content/Bhattacharjee_asu_0010N_19329.pdf) now.
+- August 13 2019: Graduated from ASU with my Masters : My thesis is available [here](https://repository.asu.edu/attachments/221752/content/Bhattacharjee_asu_0010N_19329.pdf) now.
 - July 2019 : Successfully defended my thesis!
 - February 2019 : Joined [Hugh Barnaby](https://isearch.asu.edu/profile/749233)'s lab to work with Aymeric Privat on a project for NASA JPL.
 - April 2018 : Joined Dr. Chitta Baral's lab to do my thesis on a topic under Natural Language Understanding.
